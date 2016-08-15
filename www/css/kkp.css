@@ -1,0 +1,16 @@
+.banner, .map{
+    width: 100%;
+}
+
+
+p.main {
+    text-align: justify;
+}
+
+p.main2 {
+    text-align: left;
+}
+
+h3.main {
+    text-align: center;
+}
